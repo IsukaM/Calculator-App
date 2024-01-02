@@ -2,8 +2,7 @@
 
 This repository contains the code for a Simple Calculator app, which is designed to provide basic arithmetic calculations quickly and efficiently.
 
-![image](https://github.com/IsukaM/Calculator-App/assets/144875558/47d6ae7c-5cc9-4cfd-8a75-096a116748e4)
-
+![image](https://github.com/IsukaM/Calculator-App/assets/144875558/2c875a0c-e177-4b54-a6b4-e5b6adb839d2)
 
 ## Features
 
